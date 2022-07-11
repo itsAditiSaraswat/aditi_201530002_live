@@ -17,6 +17,6 @@ function myFunc() {
     if (mm < 10) mm = '0' + mm;
 
     const formattedToday = dd + '-' + mm + '-' + yyyy;
-    
+
     displayDate.innerText = formattedToday;
 }
