@@ -1,0 +1,9 @@
+#logo {
+    background-color: #fc5296;
+    background-image: linear-gradient(315deg, #fc5296 0%, #f67062 74%);
+}
+#topRightBtn {
+    box-shadow: -7px 9px 22px 1px rgba(209, 205, 205, 0.75);
+    -webkit-box-shadow: -7px 9px 22px 1px rgba(209, 205, 205, 0.75);
+    -moz-box-shadow: -7px 9px 22px 1px rgba(209, 205, 205, 0.75);
+}
